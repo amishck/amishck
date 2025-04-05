@@ -18,6 +18,7 @@ Feel free to reach out for collaboration or a quick chat 👇
 <p align="center">
   <a href="mailto:amishck08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/amish-chandran-kasaragod-5454882a5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://dreamsindrafts.blogspot.com/2025/04/Powerful-AI-Tools-to-Automate-Your-Pentests.html"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
 </p>
 
 # 💻 Tech Stack:
