@@ -1,11 +1,10 @@
 # 💫 About Me:
 🔐 Cybersecurity Enthusiast | 💻 Bug Bounty Hunter |🚀 Learning Every Day
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ethical+Hacker+%7C+Python+Developer+%7C+Bug+Bounty+Hunter;Always+Learning+Something+New!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ethical+Hacker+%7C+Bug+Bounty+Hunter;Always+Learning+Something+New!&center=true&width=500&height=45">
 </p>
 
 ![Amish Chandran Kasaragod](https://img.shields.io/badge/Made%20by-Amish_Chandran_Kasaragod-1f425f?style=for-the-badge)
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="400">
@@ -14,7 +13,6 @@
 ## 🌐 Socials:
 
 Feel free to reach out for collaboration or a quick chat 👇
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amish-chandran-kasaragod-5454882a5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amishck08@gmail.com) 
 
 <p align="center">
   <a href="mailto:amishck08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
