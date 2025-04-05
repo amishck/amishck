@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Ethical+Hacker+%7C+Python+Developer+%7C+Bug+Bounty+Hunter;Always+Learning+Something+New!&center=true&width=500&height=45">
 </p>
 
-![Amish Chandran Kasaragod](https://img.shields.io/badge/Made%20by-Ack-1f425f?style=for-the-badge)
+![Amish Chandran Kasaragod](https://img.shields.io/badge/Made%20by-Amish_Chandran_Kasaragod-1f425f?style=for-the-badge)
 
 
 ## 🌐 Socials:
