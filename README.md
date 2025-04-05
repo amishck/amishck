@@ -1,12 +1,15 @@
 # 💫 About Me:
 🔐 Cybersecurity Enthusiast | 💻 Bug Bounty Hunter |🚀 Learning Every Day
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ethical+Hacker+%7C+Python+Developer+%7C+Bug+Bounty+Hunter;Always+Learning+Something+New!&center=true&width=500&height=45">
+</p>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amish-chandran-kasaragod-5454882a5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amishck08@gmail.com) 
 
 # 💻 Tech Stack:
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF3300?style=for-the-badge&logo=burpsuite&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF3300?style=for-the-badge&logo=burpsuite&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-004170?logo=nmap&logoColor=white&style=flat-square) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
