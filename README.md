@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Ethical+Hacker+%7C+Python+Developer+%7C+Bug+Bounty+Hunter;Always+Learning+Something+New!&center=true&width=500&height=45">
 </p>
 
+![Amish Chandran Kasaragod](https://img.shields.io/badge/Made%20by-Ack-1f425f?style=for-the-badge)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amish-chandran-kasaragod-5454882a5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amishck08@gmail.com) 
