@@ -10,8 +10,6 @@
 
 ## 🚀 Featured Projects:
 - 🔐 [Vulnerability Scanner CLI Tool](https://github.com/amishck/vuln-scanner)
-- 🎬 [OTT Platform Project](https://github.com/amishck/ott-platform)
-- 🏫 [School Website for Akanksha Trust](https://github.com/amishck/akanksha-school)
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=amishck&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
